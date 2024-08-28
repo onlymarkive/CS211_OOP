@@ -1,4 +1,4 @@
-public class MultiplesOfSeven {
+public class Esceq {
     public static void main(String[] args) {
         int multiple = 7;
 
