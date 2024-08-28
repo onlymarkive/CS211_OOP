@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TemperatureConverter {
+public class Tempconvert {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
